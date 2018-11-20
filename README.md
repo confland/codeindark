@@ -1,6 +1,7 @@
 # Conf.Land Code In The Dark
 
 Let's have fun.
+You have to do the same image in the bottom right of the editor without preview your code. In 15 minutes :)
 
 ## Start by get the editor
 ```
